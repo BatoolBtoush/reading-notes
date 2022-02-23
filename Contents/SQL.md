@@ -2,7 +2,8 @@
 
 >### Explaning my understanding of SQL and relational databases.
 
-
+<br>
+</br>
 
 ## Firstly, what is meant by SQL?
 *(Structured Query Language)*
@@ -15,17 +16,20 @@ Plus, SQL has many other databases that support the common standard for the lang
 - Oracle
 - Microsoft SQL Server
 
+<br>
+</br>
 
 ## What is meant by relational database?
 
 Basically this database represents a collection of related -hence the name relational- tables, and those tables are made up of rows and coloumns data, and each one of them answers a specific question relating to the big table.
 
-
+<br>
+</br>
 
 
 Now let's head down to the lessons and exercises:
  
->## SQL Lesson 1: SELECT queries 101
+>## [SQL Lesson 1: SELECT queries 101](#SQL-Lesson-1:-SELECT-queries-101)
 
 *In this lesson I was introduced to a query method of SELECT, that's used to retrieve column's data from a SQL database.*
 
@@ -44,9 +48,12 @@ FROM table's_name;
 
 
 
+<br>
+</br>
+<br>
+</br>
 
-
->## SQL Lesson 2: Queries with constraints (Pt. 1)
+>## [SQL Lesson 2: Queries with constraints (Pt. 1)](#SQL-Lesson-2:-Queries-with-constraints-(Pt.1))
 
 *To avoid getting all the data when retrieving a certain column in a database table, I can use a WHERE, which will help me filter out unneccessary information and only get me the ones that I requested*.
 *This also allows the query to run faster due to the reduction in unnecessary data being returned.*
@@ -73,11 +80,14 @@ WHERE condition
 ### **Lesson 2 Exercise**
 ![lesson 2 exercise](/imgs/lesson2pt1exercise.PNG)
 
+<br>
+</br>
+<br>
+</br>
 
 
 
-
->## SQL Lesson 3: Queries with constraints (Pt. 2)
+>## [SQL Lesson 3: Queries with constraints (Pt. 2)](#SQL-Lesson-3:-Queries-with-constraints-(Pt.-2))
 *I can filter the text data inside the columns of a table by using operators provided by SQL, and they allow me to do some comparison and matching, amongst other things.*
 
 *And these are the operators:*
@@ -96,10 +106,13 @@ WHERE condition
 ![lesson 3 exercise](/imgs/lesson3pt2exercise.PNG)
 
 
+<br>
+</br>
+<br>
+</br>
 
 
-
->## SQL Lesson 4: Filtering and sorting Query results
+>## [SQL Lesson 4: Filtering and sorting Query results](#SQL-Lesson-4:-Filtering-and-sorting-Query-results)
 There are more than one clause or keyword to insure that the data we get from the table is filtered out, and those are:
 
 - ### DISTINCT
@@ -138,19 +151,25 @@ LIMIT num_limit OFFSET num_offset;
 ![lesson 4 exercise](/imgs/lesson4exercise.PNG)
 
 
+<br>
+</br>
+<br>
+</br>
 
 
-
->## SQL Lesson 5: SQL Review: Simple SELECT Queries
+>## [SQL Lesson 5: SQL Review: Simple SELECT Queries](#SQL-Lesson-5:-SQL-Review:-Simple-SELECT-Queries)
 
 ### **Lesson 5 Exercise**
 ![lesson 5 exercise](/imgs/lesson5review.PNG)
 
 
+<br>
+</br>
+<br>
+</br>
 
 
-
->## SQL Lesson 6: Multi-table queries with JOINs
+>## [SQL Lesson 6: Multi-table queries with JOINs](#SQL-Lesson-6:-Multi-table-queries-with-JOINs)
 
 *In the real world entity data aren't just stored in one table, but rather spread out into mulitple tables, and that makes it difficult to gather all the needed data using only the previous clauses. That's why there are methods to deal with Multi-table queries.*
 
@@ -178,9 +197,13 @@ ORDER BY column, … ASC/DESC
 ![lesson 6 exercise](/imgs/lesson6exercise.PNG)
 
 
+<br>
+</br>
+<br>
+</br>
 
 
->## SQL Lesson 13: Inserting rows
+>## [SQL Lesson 13: Inserting rows](#SQL-Lesson-13:-Inserting-rows)
 
 *Rather than quering data from already existing database tables, in this lesson I learnt how to add new data to a schema.*
 
@@ -212,8 +235,13 @@ VALUES (value_or_expr, another_value_or_expr, …),
 ![lesson 13 exercise](/imgs/lesson13exercise.PNG)
 
 
+<br>
+</br>
+<br>
+</br>
 
->## SQL Lesson 14: Updating rows
+
+>## [SQL Lesson 14: Updating rows](#SQL-Lesson-14:-Updating-rows)
 *In this lesson I learnt how updating already existing data inside a table is done, it's like the old INSERT method when defining what table, columns, rows, but with the exception of updating not adding and using the clause UPDATE with WHERE to add a condition (if we forget the WHERE statement this will cause all the content of the table to be updated), also for extra care, use the SELECT method*
 
 *One other important thing is making sure that the new updated data match the data type of the content of the schema.*
@@ -231,7 +259,13 @@ WHERE condition;
 ![lesson 14 exercise](/imgs/lesson14exercise.PNG)
 
 
->## SQL Lesson 15: Deleting rows
+<br>
+</br>
+<br>
+</br>
+
+
+>## [SQL Lesson 15: Deleting rows](#SQL-Lesson-15:-Deleting-rows)
 *Now to delete certain data from a table, I use the DELETE statement with a WHERE statement to make sure it satisfy a condition in order not to delete all the content of the rows by accident. And for extra care, just like witht the UPDATE statement, it's better to use it with a SELECT method*
 
 The syntax goes like this:
@@ -245,7 +279,13 @@ WHERE condition;
 
 
 
->## SQL Lesson 16: Creating tables
+<br>
+</br>
+<br>
+</br>
+
+
+>## [SQL Lesson 16: Creating tables](#SQL-Lesson-16:-Creating-tables)
 *When wanting to create a new entity that doesn't exist in the database I can use the CREATE TABLE statement with the extra IF NOT EXISTS just to make sure that what I'm creating is in fact new.*
 *Keeping in mind that there are various data types that I have to abide by when creating a table, in addition to certain constraints as to limit the amount of values to be inserted into each column.*
 
@@ -262,7 +302,13 @@ CREATE TABLE IF NOT EXISTS table's_name (
 ![lesson 16 exercise](/imgs/lesson16exercise.PNG)
 
 
->## SQL Lesson 17: Altering tables
+<br>
+</br>
+<br>
+</br>
+
+
+>## [SQL Lesson 17: Altering tables](#SQL-Lesson-17:-Altering-tables)
 *As to make sure I can keep up with the changes that happen to the data over time, I can use the ALTER TABLE statement which helps me by updating the tables in the database schemas, by adding, removing, modifying.*
 
 
@@ -298,7 +344,13 @@ RENAME TO new_table_name;
 ![lesson 17 exercise](/imgs/lesson17exercise.PNG)
 
 
->## SQL Lesson 18: Dropping tables
+<br>
+</br>
+<br>
+</br>
+
+
+>## [SQL Lesson 18: Dropping tables](#SQL-Lesson-18:-Dropping-tables)
 *To remove a table schema entirely from the database, I don't just use the DELETE statement but rather the DROP TABLE, as it makes sure of that.*
 *Making sure to use IF EXISTS statement to be extra careful in order to not get an error if the table I want to drop doesn't actually exist.*
 
