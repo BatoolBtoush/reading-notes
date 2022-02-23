@@ -5,7 +5,7 @@
 
 
 ## Firstly, what is meant by SQL?
-**(Structured Query Language)**
+*(Structured Query Language)*
 
 It's a language that's simple enough to allow both experienced and non expereienced technicals to access, manipulate and do other operations to the data from a relational database.
 Plus, SQL has many other databases that support the common standard for the language while also having additional features and storage type that differentiate them from one another and these databases are:
