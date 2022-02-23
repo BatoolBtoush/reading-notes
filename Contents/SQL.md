@@ -20,6 +20,9 @@ Plus, SQL has many other databases that support the common standard for the lang
 
 Basically this database represents a collection of related -hence the name relational- tables, and those tables are made up of rows and coloumns data, and each one of them answers a specific question relating to the big table.
 
+
+
+
 Now let's head down to the lessons and exercises:
  
 >## SQL Lesson 1: SELECT queries 101
@@ -37,7 +40,10 @@ SELECT *
 FROM table's_name;
 ```
 ### **Lesson 1 Exercise**
-![lesson 1 exercise](./imgs/lesson1exercise.PNG)
+![lesson 1 exercise](/imgs/lesson1exercise.PNG)
+
+
+
 
 
 >## SQL Lesson 2: Queries with constraints (Pt. 1)
@@ -65,7 +71,9 @@ WHERE condition
     AND/OR …;
 ```
 ### **Lesson 2 Exercise**
-![lesson 2 exercise](./imgs/lesson2pt1exercise.PNG)
+![lesson 2 exercise](/imgs/lesson2pt1exercise.PNG)
+
+
 
 
 
@@ -85,7 +93,10 @@ WHERE condition
 | NOT IN (…) | String does not exist in a list	 |
 
 ### **Lesson 3 Exercise**
-![lesson 3 exercise](./imgs/lesson3pt2exercise.PNG)
+![lesson 3 exercise](/imgs/lesson3pt2exercise.PNG)
+
+
+
 
 
 >## SQL Lesson 4: Filtering and sorting Query results
@@ -124,20 +135,24 @@ ORDER BY column ASC/DESC
 LIMIT num_limit OFFSET num_offset;
 ```
 ### **Lesson 4 Exercise**
-![lesson 4 exercise](./imgs/lesson4exercise.PNG)
+![lesson 4 exercise](/imgs/lesson4exercise.PNG)
+
+
 
 
 
 >## SQL Lesson 5: SQL Review: Simple SELECT Queries
 
 ### **Lesson 5 Exercise**
-![lesson 5 exercise](./imgs/lesson5review.PNG)
+![lesson 5 exercise](/imgs/lesson5review.PNG)
+
 
 
 
 
 >## SQL Lesson 6: Multi-table queries with JOINs
-*In the real world entity data aren't just stored in one table, but rather spread out into mulitple tables, and that makes it difficult to gather all the needed data using only the previous clauses. That's why there are methods to deal with Multi-table queries.
+
+*In the real world entity data aren't just stored in one table, but rather spread out into mulitple tables, and that makes it difficult to gather all the needed data using only the previous clauses. That's why there are methods to deal with Multi-table queries.*
 
 - ## ***Database normalization***
 *It's a design technique that reduces data redundancy and eliminates undesirable characteristics like Insertion, Update and Deletion Anomalies. Normalization rules divides larger tables into smaller tables and links them using relationships. The purpose of Normalisation in SQL is to eliminate redundant (repetitive) data and ensure data is stored logically* 
@@ -160,5 +175,8 @@ ORDER BY column, … ASC/DESC
 ```
 
 ### **Lesson 6 Exercise**
-![lesson 6 exercise](./imgs/lesson6exercise.PNG)
+![lesson 6 exercise](/imgs/lesson6exercise.PNG)
+
+
+
 
