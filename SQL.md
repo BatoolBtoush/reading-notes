@@ -88,9 +88,13 @@ WHERE condition
 
 
 >## [SQL Lesson 3: Queries with constraints (Pt. 2)](#SQL-Lesson-3:-Queries-with-constraints-(Pt.-2))
+
+
 *I can filter the text data inside the columns of a table by using operators provided by SQL, and they allow me to do some comparison and matching, amongst other things.*
 
 *And these are the operators:*
+
+
 | Operator | Condition |
 | ----------- | ----------- |
 | = | Case sensitive exact string comparison |
@@ -113,6 +117,8 @@ WHERE condition
 
 
 >## [SQL Lesson 4: Filtering and sorting Query results](#SQL-Lesson-4:-Filtering-and-sorting-Query-results)
+
+
 There are more than one clause or keyword to insure that the data we get from the table is filtered out, and those are:
 
 - ### DISTINCT
@@ -242,6 +248,8 @@ VALUES (value_or_expr, another_value_or_expr, …),
 
 
 >## [SQL Lesson 14: Updating rows](#SQL-Lesson-14:-Updating-rows)
+
+
 *In this lesson I learnt how updating already existing data inside a table is done, it's like the old INSERT method when defining what table, columns, rows, but with the exception of updating not adding and using the clause UPDATE with WHERE to add a condition (if we forget the WHERE statement this will cause all the content of the table to be updated), also for extra care, use the SELECT method*
 
 *One other important thing is making sure that the new updated data match the data type of the content of the schema.*
@@ -266,6 +274,8 @@ WHERE condition;
 
 
 >## [SQL Lesson 15: Deleting rows](#SQL-Lesson-15:-Deleting-rows)
+
+
 *Now to delete certain data from a table, I use the DELETE statement with a WHERE statement to make sure it satisfy a condition in order not to delete all the content of the rows by accident. And for extra care, just like witht the UPDATE statement, it's better to use it with a SELECT method*
 
 The syntax goes like this:
@@ -286,6 +296,8 @@ WHERE condition;
 
 
 >## [SQL Lesson 16: Creating tables](#SQL-Lesson-16:-Creating-tables)
+
+
 *When wanting to create a new entity that doesn't exist in the database I can use the CREATE TABLE statement with the extra IF NOT EXISTS just to make sure that what I'm creating is in fact new.*
 *Keeping in mind that there are various data types that I have to abide by when creating a table, in addition to certain constraints as to limit the amount of values to be inserted into each column.*
 
@@ -309,6 +321,8 @@ CREATE TABLE IF NOT EXISTS table's_name (
 
 
 >## [SQL Lesson 17: Altering tables](#SQL-Lesson-17:-Altering-tables)
+
+
 *As to make sure I can keep up with the changes that happen to the data over time, I can use the ALTER TABLE statement which helps me by updating the tables in the database schemas, by adding, removing, modifying.*
 
 
@@ -351,6 +365,8 @@ RENAME TO new_table_name;
 
 
 >## [SQL Lesson 18: Dropping tables](#SQL-Lesson-18:-Dropping-tables)
+
+
 *To remove a table schema entirely from the database, I don't just use the DELETE statement but rather the DROP TABLE, as it makes sure of that.*
 *Making sure to use IF EXISTS statement to be extra careful in order to not get an error if the table I want to drop doesn't actually exist.*
 

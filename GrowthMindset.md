@@ -4,7 +4,10 @@
 </br>
 
 
->## [Upgrade your technical skills with deliberate practice](#Upgrade-your-technical-skills-with-deliberate-practice)
+## [Upgrade your technical skills with deliberate practice](#Upgrade-your-technical-skills-with-deliberate-practice)
+
+
+
 What I got from this article kind of stressed me out but at the same time comforted me a bit, why?
 Because the bullet points were loud and clear, and the most significant one is:
 **Get out of your comfort zone**.
@@ -16,11 +19,13 @@ Some might think that continously going over the same issues in programming has 
 The correct way to advance and stir up the mind is to push yourself to take up more challenging codes and programming tasks, don't just stick to what you already know as that won't get you far.
 <br>
 </br>
+
 ### ***How to do so?***
 
 By something called **deliberate practice**.
 <br>
 </br>
+
 ### ***What is meant by deliberate practice?***
 And I quote directly from: [Upgrade your technical skills with deliberate practice](https://web.archive.org/web/20160616225417/http://www.happybearsoftware.com/upgrade-your-technical-skills-with-deliberate-practice)
 
@@ -33,6 +38,8 @@ Basically, their sole purpose is to allow you to improve your knowledge by addin
 </br>
 
 >## [Carol Dweck on the Growth Mindset](#Carol-Dweck-on-the-Growth-Mindset)
+
+
 This was such a fun and informative video to watch and it brought up many important ideas that I have thought of before but never dowelled on and I'm going to list them down:
 - *The growth and fixed mindsets:*
 <br>
@@ -53,6 +60,8 @@ While the ones with the YET prespective, view their setbacks as a chance for the
 </br>
 
 >## [Angela Lee Duckworth on Grit](#Angela-Lee-Duckworth-on-Grit)
+
+
 This video touched again on the growth mindset but with a different title, which is grit.
 
 Angela began discussing how was grit the only quality that made growing and achieving long term goals possible, how grit meant to overcome hurdels and setbacks for the greater good which is the future one wishes to live, because means stamina and perseverance no matter what.
@@ -65,6 +74,8 @@ Then she brought up how to develop this skill or quality in kids or even adults,
 </br>
 
 > ## [Alain de Botton on Redefining Success](#Alain-de-Botton-on-Redefining-Success)
+
+
 This video was both fun and depressing, because it stresses on how much our modern society has infected us with negative emotions that dictate our lives, like:
 - **The axiety** that comes from careers and our constant worry for our place in the socail hierarchy, because in some sociaties that is what makes a person worthy or not.
 - **Envy**, now envy is a very demanding emotion but what I was surprised to learn is that comes hand in hand with the sense of equality. Because if we were to feel this emotion we basically have thought about the fact that we should be equal to the person who I'm envying, that's why this emotion is only directed towards people we can relate to.
@@ -79,8 +90,15 @@ But what I also liked how Alain made sure to say that this idea is simply naive,
 <br>
 </br>
 
+
+
 > ## [Measuring Emotional Intelligence](#Measuring-Emotional-Intelligence)
+
+
 After taking the assessment these were my results:
+
+
+
 | Assessment | Score |
 | ----------- | ----------- |
 | Self-Awareness | 18 |
@@ -88,7 +106,7 @@ After taking the assessment these were my results:
 | Social Awareness | 22 |
 | Relationship Management | 17 |
 
-<br>
+
 I think I was a bit shocked at the scores, espacially the "Self-Management", but I suppose it's true because although I am aware of what I'm doing or how I'm feeling I still tend to be blinded by the overwhelming emotions.
 
 Other than that, I think the rest are well estimated.
@@ -100,7 +118,9 @@ Other than that, I think the rest are well estimated.
 > ## [Assessing Bias](#Assessing-Bias)
 After taking this assessment, this was my result:
 ![Bias self-assessment](/imgs/biasassessment.PNG)
-<br>
+
+
+
 I noticed that I have some kind of a weakness when it comes to voicing my thoughts in a discomforting setting, and that is something I'll try to work on.
 
 In addition to, working more on including others in my decision-making process.
