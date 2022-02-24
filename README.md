@@ -5,11 +5,11 @@
 ## Code 102 - Intro to Software Development
 
 ### Table of contents:
-- [*Prep: Introduction to SQL*](Contents/SQL.md)
+- [*Prep: Introduction to SQL*](SQL.md)
 
-- [*Prep: Practice in the Terminal*](Contents/PracticeInTerminal.md)
+- [*Prep: Practice in the Terminal*](PracticeInTerminal.md)
 
-- [*Prep: The Growth Mindset*](Contents/GrowthMindset.md)
+- [*Prep: The Growth Mindset*](GrowthMindset.md)
 
 
 
