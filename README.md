@@ -3,7 +3,11 @@
 **Descreption:** This web site will showcase my notes and collective thoughts on the reading assignments for the 401 level of this course.
 
 ## Code 102 - Intro to Software Development
+## Code 201 - Foundations of Software Development
+## Code 301 - Intermediate Software Development
 
+
+## Code 401 - Advanced Software Development
 ### Table of contents:
 - [*Prep: Introduction to SQL*](SQL.md)
 
@@ -11,12 +15,6 @@
 
 - [*Prep: The Growth Mindset*](GrowthMindset.md)
 
-
-
-## Code 201 - Foundations of Software Development
-
-### Table of contents:
 - [*Read: Class 01*](Class01.md)
 
-## Code 301 - Intermediate Software Development
-## Code 401 - Advanced Software Development
+- [*Read: Class02*](Class02.md)
