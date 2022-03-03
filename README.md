@@ -18,3 +18,5 @@
 - [*Read: Class 01*](Class01.md)
 
 - [*Read: Class02*](Class02.md)
+
+- [*Read: Class03*](Class03.md)
