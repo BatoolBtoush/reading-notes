@@ -39,7 +39,7 @@ myobjectx.function()
 
 ~ ***The __init__() function***
 
-A function that's called when the class is first being initiated. And it's used for asigning values in the given class.
+A function that's called when the class is first being initiated. And it's used for assigning values in the given class.
  
 
 <br>
@@ -48,16 +48,16 @@ A function that's called when the class is first being initiated. And it's used 
 
 ## ***Thinking Recursively in Python***
 
-The key concept of **Recusive thinking** is:
+The key concept of **Recursive thinking** is:
 
-Solving a big problem can be done by dividing it into subproblems and solvong each one of them at a time.
+Solving a big problem can be done by dividing it into subproblems and solving each one of them at a time.
 
 	
 <br>
 
-**Recursive Function** can be defined as the function that refers or calls itself repeatidly until a certain condition is met then it returns a value. And the structure for all Recursive Functions is the same, as it's made up of two parts:
+**Recursive Function** can be defined as the function that refers or calls itself repeatedly until a certain condition is met then it returns a value. And the structure for all Recursive Functions is the same, as it's made up of two parts:
 1. **Base Case**
-2. **Recurise Case**
+2. **Recursive Case**
 
 	
 <br>
@@ -71,7 +71,7 @@ Solving a big problem can be done by dividing it into subproblems and solvong ea
 
 ### **Recursive Data Structures in Python**
 
-A data structure is recursive if it can be deﬁned in terms of a smaller version of itself, and in Python, **list**, **setes** and **dictionaries** are considered to be recursive data structures.
+A data structure is recursive if it can be deﬁned in terms of a smaller version of itself, and in Python, **list**, **sets** and **dictionaries** are considered to be recursive data structures.
  
 
 <br>
@@ -100,6 +100,6 @@ You can tell pytest that a particular function is a fixture by decorating it wit
 
 After writing tests for functions in your actual code, can you be certain that you've actually tested all of the possible paths of those functions?
 
-To be 100% accurate that a certain function makes sense decpite passing the test you wrote for it, there's a package called **pytest-cov** on PyPI that can be downloaded and installed to help make sure of that. 
+To be 100% accurate that a certain function makes sense despite passing the test you wrote for it, there's a package called **pytest-cov** on PyPI that can be downloaded and installed to help make sure of that. 
 
 And after that's done, you can invoke pytest with the **--cov option**. This way you'll get a coverage report for every part of the Python library that your program or code used.
