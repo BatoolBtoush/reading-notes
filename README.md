@@ -22,3 +22,6 @@
 - [*Read: Class03*](Class03.md)
 
 - [*Read: Class04*](Class04.md)
+
+- [*Read: Class05*](Class05_linked_lists.md)
+
