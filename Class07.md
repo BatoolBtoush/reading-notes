@@ -1,4 +1,4 @@
-# Readings For Class04
+# Readings For Class07
 
 ## **The Global Scope and Nonlocal**
 
