@@ -31,6 +31,7 @@ Basically, we can change or modify global names from anywhere in the global Pyth
 
 So instead, use local names rather than global names.
 
+
 ### ***The global Statement***
 
 Assigning a value to a global name within a function results in the creation of a new local name in the function scope. You can use a global statement to change this behavior. This statement allows you to specify a list of names that will be handled as global names.
@@ -46,6 +47,7 @@ The nonlocal statement consists of one or more names separated by commas, follow
 
 <br>
 <br>
+
 
 
 ## **Big O Notation**
@@ -74,7 +76,7 @@ It’s when the growth doubles with each addition to the input data set.
 
 <br>
 
-~~The time complexity of an algorithm is a measure of how long it takes an algorithm to run as a function of the input length. Similarly, an algorithm's space complexity estimates how much space or memory it takes to run as a function of the length of the input.
+~~ The time complexity of an algorithm is a measure of how long it takes an algorithm to run as a function of the input length. Similarly, an algorithm's space complexity estimates how much space or memory it takes to run as a function of the length of the input.
 
 Both are dependent on a variety of external elements such as computer hardware, operating system and so on.
  
@@ -91,4 +93,4 @@ The Python Random module is a built-in module for generating random integers in 
 import random
 print(random.randint(1,6))
 ```
-This would result in a random integer from 1 to 6.
+This would result in a random integer from 1 to 6
