@@ -1,4 +1,5 @@
-# Readings For Class07
+# Readings: Game of Greed 2
+
 
 ## **The Global Scope and Nonlocal**
 
