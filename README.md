@@ -49,6 +49,10 @@
 
 - [*Read: Class17*](Class17.md)
 
+- [*Read: Class26*](Class26.md)
+
+- [*Read: Class27*](Class27.md)
+
 
 
 
