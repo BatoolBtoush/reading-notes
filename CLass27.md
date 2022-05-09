@@ -39,6 +39,7 @@ The field types are:
 
 ### **Methods**
 
+
 Minimally, in every model you should define the standard Python class method __str__() to return a human-readable string for each object. This string is used to represent individual records in the administration site. Often this will return a title or name field from the model.
 ```
 def __str__(self):
@@ -90,6 +91,8 @@ Once this command completes a new superuser will have been added to the database
 
 ## **Logging in and using the site**
 
-To login to the site, open the /admin URL (e.g. http://127.0.0.1:8000/admin) and enter your new superuser username and password credentials 
+To login to the site, open the /admin URL: e.g. http://127.0.0.1:8000/admin and enter your new superuser username and password credentials 
 
 you'll then be redirected to the login page, and then back to the /admin URL after you've entered your details
+
+
