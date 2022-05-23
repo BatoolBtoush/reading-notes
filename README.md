@@ -60,3 +60,5 @@
 - [*Read: Class30*](Class30_hashtables.md)
 
 - [*Read: Class31*](Class31.md)
+
+- [*Read: Class32*](Class32.md)
