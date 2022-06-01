@@ -33,7 +33,7 @@
 
 - [*Read: Class09*](Class09.md)
 
-- [*Read: Class10*](Class10.md)
+- [*Read: Class10*](Class10_stack&queues.md)
 
 - [*Read: Class11*](Class11.md)
 
@@ -64,3 +64,7 @@
 - [*Read: Class32*](Class32.md)
 
 - [*Read: Class33*](Class33.md)
+
+- [*Read: Class34*](Class34.md)
+
+- [*Read: Class35*](Class35_graphs.md)
