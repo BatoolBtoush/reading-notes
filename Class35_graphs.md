@@ -193,4 +193,5 @@ In a depth first traversal while the breadth first traversal uses a Queue to vis
 
 14. We have now completed our traversal with all nodes read in Depth First Order!
 
-![Depth First Traversal](imgs/DepthFirst5.png)
+
+![Depth First Traversal](imgs/depthFirst5.png)
