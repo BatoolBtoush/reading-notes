@@ -246,28 +246,29 @@ The difference bewteen handling React events and handling DOM events are:
     - With JSX you pass a function as the event handler, rather than a string.
 
 
-1. For example, the HTML:
-```
-<button onclick="activateLasers()">
-  Activate Lasers
-</button>
-```
+For example, the HTML:
+  ```
+  <button onclick="activateLasers()">
+    Activate Lasers
+  </button>
+  ```
 
 
 is slightly different in React:
 
-```
-<button onClick={activateLasers}>
-  Activate Lasers
-</button>
-```
+  ```
+  <button onClick={activateLasers}>
+    Activate Lasers
+  </button>
+  ```
 
-2. Another difference is that you cannot return *false* to prevent default behavior in React. You must call``` preventDefault``` explicitly. For example, with plain HTML, to prevent the default form behavior of submitting, you can write:
+Another difference is that you cannot return *false* to prevent default behavior in React. You must call``` preventDefault``` explicitly. For example, with plain HTML, to prevent the default form behavior of submitting, you can write:
+
 ```
-<form onsubmit="console.log('You clicked submit.'); return false">
-  <button type="submit">Submit</button>
-</form>
-```
+  <form onsubmit="console.log('You clicked submit.'); return false">
+    <button type="submit">Submit</button>
+  </form>
+  ```
 
 
 In React, this could instead be:
@@ -285,4 +286,5 @@ function Form() {
     </form>
   );
 }
+
 ```
