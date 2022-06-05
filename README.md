@@ -68,3 +68,5 @@
 - [*Read: Class34*](Class34.md)
 
 - [*Read: Class35*](Class35_graphs.md)
+
+- [*Read: Class36*](Class36.md)
